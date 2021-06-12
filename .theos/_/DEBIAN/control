@@ -1,0 +1,10 @@
+Package: com.greenglasst.ytenhanced
+Name: YTEnhanced
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: GreenglassT
+Author: GreenglassT
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-1+debug
+Installed-Size: 220
